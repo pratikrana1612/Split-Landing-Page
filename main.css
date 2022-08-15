@@ -26,16 +26,15 @@ body{
 }
 .main_container h1{
     font-size: 4rem;
-    margin:0;
     position:relative;
-    bottom:10%;
+    bottom:15%;
     z-index:1;
     color:white;
 }
 .main_container button{
     padding:1.5rem 5rem;
     position:relative;
-    bottom:10%;
+    bottom:15%;
     z-index:1;
     background-color:transparent;
     color:white;
